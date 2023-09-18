@@ -1,5 +1,5 @@
 # 💫 Olá, eu sou Riquelme!:
-📚Estou cursando Ciências da Computação<br>👨‍🎓 Sou técnico em Administração<br>📖No momento estou estudando JavaScript e alguns frameworks importantes para o desenvolvimento Web<br>📝Almejo me tornar um desenvolvedor Full-Stack<br>
+📚Estou cursando Ciências da Computação<br>👨‍🎓 Sou técnico em Administração<br>📖No momento estou estudando JavaScript e alguns frameworks importantes para o Desenvolvimento Web<br>📝Almejo me tornar um desenvolvedor Full-Stack<br>
 
 
 ## 🌐 Redes Sociais:
