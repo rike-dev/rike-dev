@@ -1,5 +1,5 @@
 # 🙋‍♂️ Olá, eu sou Riquelme!:
-📚Estou cursando Ciências da Computação<br>👨‍🎓 Sou técnico em Administração<br>📖No momento estou estudando a área de QA e algumas ferramentas importantes para o Desenvolvimento Web<br>📝Almejo trabalhar na área de Qualidade de software<br>
+📚Estou cursando Análise e Desenvolvimento de Sistemas<br>👨‍🎓 Sou técnico em Administração<br>📖No momento estou estudando a área de QA e algumas ferramentas importantes para o Desenvolvimento Web<br>📝Almejo trabalhar na área de Qualidade de software<br>
 
 
 ## 🌐 Redes Sociais:
